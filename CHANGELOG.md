@@ -11,6 +11,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [3.2.0] - 2026-01-26 - "Clarity & Consistency"
+
+### Changed
+
+- **Skills Refactoring**: Significant overhaul of `backend-dev-guidelines`, `frontend-design`, `frontend-dev-guidelines`, and `mobile-design`.
+  - **Consolidation**: Merged fragmented documentation into single, authoritative `SKILL.md` files.
+  - **Final Laws**: Introduced "Final Laws" sections to provide strict, non-negotiable decision frameworks.
+  - **Simplification**: Removed external file dependencies to improve context retrieval for AI agents.
+
+### Fixed
+
+- **Validation**: Fixed critical YAML frontmatter formatting issues in `seo-fundamentals`, `programmatic-seo`, and `schema-markup` that were blocking strict validation.
+- **Merge Conflicts**: Resolved text artifact conflicts in SEO skills.
+
 ## [3.1.0] - 2026-01-26 - "Stable & Deterministic"
 
 ### Fixed
