@@ -1,6 +1,6 @@
 {
   "generatedAt": "2026-02-08T00:00:00.000Z",
-  "total": 863,
+  "total": 864,
   "skills": [
     {
       "id": "3d-web-experience",
@@ -7556,6 +7556,38 @@
         "covers"
       ],
       "path": "skills/crewai/SKILL.md"
+    },
+    {
+      "id": "crypto-bd-agent",
+      "name": "crypto-bd-agent",
+      "description": "Autonomous crypto business development patterns — multi-chain token discovery, 100-point scoring with wallet forensics, x402 micropayments, ERC-8004 on-chain identity, LLM cascade routing, and pipeline automation for CEX/DEX listing acquisition. Use when building AI agents for crypto BD, token evaluation, exchange listing outreach, or autonomous commerce with payment protocols.",
+      "category": "security",
+      "tags": [
+        "crypto",
+        "business-development",
+        "token-scanning",
+        "x402",
+        "erc-8004",
+        "autonomous-agent",
+        "solana",
+        "ethereum",
+        "wallet-forensics"
+      ],
+      "triggers": [
+        "crypto",
+        "business-development",
+        "token-scanning",
+        "x402",
+        "erc-8004",
+        "autonomous-agent",
+        "solana",
+        "ethereum",
+        "wallet-forensics",
+        "bd",
+        "agent",
+        "autonomous"
+      ],
+      "path": "skills/crypto-bd-agent/SKILL.md"
     },
     {
       "id": "csharp-pro",

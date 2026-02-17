@@ -2,7 +2,7 @@
 
 Generated at: 2026-02-08T00:00:00.000Z
 
-Total skills: 863
+Total skills: 864
 
 ## architecture (64)
 
@@ -709,7 +709,7 @@ Triggers: "azure-storage-file-share", "Share... | azure, storage, file, share, p
 | `wireshark-analysis` | This skill should be used when the user asks to "analyze network traffic with Wireshark", "capture packets for troubleshooting", "filter PCAP files", "follow... | wireshark | wireshark, network, traffic, analysis, skill, should, used, user, asks, analyze, capture, packets |
 | `workflow-automation` | Workflow automation is the infrastructure that makes AI agents reliable. Without durable execution, a network hiccup during a 10-step payment flow means lost... |  | automation, infrastructure, makes, ai, agents, reliable, without, durable, execution, network, hiccup, during |
 
-## security (128)
+## security (129)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -745,6 +745,7 @@ Triggers: "keyvault secrets rust", "SecretClient rust"... | azure, keyvault, sec
 | `code-reviewer` | Elite code review expert specializing in modern AI-powered code analysis, security vulnerabilities, performance optimization, and production reliability. Mas... | code | code, reviewer, elite, review, specializing, ai, powered, analysis, security, vulnerabilities, performance, optimization |
 | `codebase-cleanup-deps-audit` | You are a dependency security expert specializing in vulnerability scanning, license compliance, and supply chain security. Analyze project dependencies for ... | codebase, cleanup, deps, audit | codebase, cleanup, deps, audit, dependency, security, specializing, vulnerability, scanning, license, compliance, supply |
 | `computer-use-agents` | Build AI agents that interact with computers like humans do - viewing screens, moving cursors, clicking buttons, and typing text. Covers Anthropic's Computer... | computer, use, agents | computer, use, agents, ai, interact, computers, like, humans, do, viewing, screens, moving |
+| `crypto-bd-agent` | Autonomous crypto business development patterns — multi-chain token discovery, 100-point scoring with wallet forensics, x402 micropayments, ERC-8004 on-chain... | crypto, business-development, token-scanning, x402, erc-8004, autonomous-agent, solana, ethereum, wallet-forensics | crypto, business-development, token-scanning, x402, erc-8004, autonomous-agent, solana, ethereum, wallet-forensics, bd, agent, autonomous |
 | `database-admin` | Expert database administrator specializing in modern cloud databases, automation, and reliability engineering. Masters AWS/Azure/GCP database services, Infra... | database, admin | database, admin, administrator, specializing, cloud, databases, automation, reliability, engineering, masters, aws, azure |
 | `database-migration` | Execute database migrations across ORMs and platforms with zero-downtime strategies, data transformation, and rollback procedures. Use when migrating databas... | database, migration | database, migration, execute, migrations, orms, platforms, zero, downtime, data, transformation, rollback, procedures |
 | `database-migrations-sql-migrations` | SQL database migrations with zero-downtime strategies for PostgreSQL, MySQL, SQL Server | database, sql, migrations, postgresql, mysql, flyway, liquibase, alembic, zero-downtime | database, sql, migrations, postgresql, mysql, flyway, liquibase, alembic, zero-downtime, zero, downtime, server |

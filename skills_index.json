@@ -2673,6 +2673,15 @@
     "source": "unknown"
   },
   {
+    "id": "crypto-bd-agent",
+    "path": "skills/crypto-bd-agent",
+    "category": "uncategorized",
+    "name": "crypto-bd-agent",
+    "description": "Autonomous crypto business development patterns \u2014 multi-chain token discovery, 100-point scoring with wallet forensics, x402 micropayments, ERC-8004 on-chain identity, LLM cascade routing, and pipeline automation for CEX/DEX listing acquisition. Use when building AI agents for crypto BD, token evaluation, exchange listing outreach, or autonomous commerce with payment protocols.\n",
+    "risk": "safe",
+    "source": "community"
+  },
+  {
     "id": "csharp-pro",
     "path": "skills/csharp-pro",
     "category": "uncategorized",
